@@ -316,10 +316,10 @@ USE_CCACHE:BOOL=OFF
 _Python3_EXECUTABLE:FILEPATH=/usr/bin/python3.8
 
 //Value Computed by CMake
-box86_BINARY_DIR:STATIC=/home/ubuntu/box86/build
+box86_BINARY_DIR:STATIC=/mnt/server/box86-prebuilded/build
 
 //Value Computed by CMake
-box86_SOURCE_DIR:STATIC=/home/ubuntu/box86
+box86_SOURCE_DIR:STATIC=/mnt/server/box86-prebuilded
 
 
 ########################
